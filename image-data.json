@@ -62,5 +62,21 @@
     ],
     "directDownloadUrl": "https://docs.google.com/uc?export=download&id=1j0wP79hJJ3DPzAywkexF7eS4AS5LMied",
     "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1j0wP79hJJ3DPzAywkexF7eS4AS5LMied"
+  },
+  {
+    "id": "13kZfbBB9HazoskrTQyEloh4gVY9aWWob",
+    "name": "moty-silver-logo.png",
+    "mimeType": "image/png",
+    "createdTime": "2025-10-12T09:01:14.783Z",
+    "modifiedTime": "2025-10-12T07:39:18.000Z",
+    "webContentLink": "https://drive.google.com/uc?id=13kZfbBB9HazoskrTQyEloh4gVY9aWWob&export=download",
+    "webViewLink": "https://drive.google.com/file/d/13kZfbBB9HazoskrTQyEloh4gVY9aWWob/view?usp=drivesdk",
+    "thumbnailLink": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPjn6ti3XsvCA7MZGLG0fJ4GDbKqr30tvDxJlt_zVyG5t9wBIjWCIPuRgRIECXF9JXWdtQVNUlRolK8l6alvMIVMmKckaNjm79pRht8RvzhDQ=s220",
+    "size": "82717",
+    "parents": [
+      "10BrewknojaNN9uYmVqyZfsjN-E1edC3T"
+    ],
+    "directDownloadUrl": "https://docs.google.com/uc?export=download&id=13kZfbBB9HazoskrTQyEloh4gVY9aWWob",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D13kZfbBB9HazoskrTQyEloh4gVY9aWWob"
   }
 ]
