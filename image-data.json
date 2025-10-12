@@ -46,5 +46,21 @@
     ],
     "directDownloadUrl": "https://docs.google.com/uc?export=download&id=1cL_6nZUzh-cB9ntBoq__HGKMUiwgrRie",
     "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1cL_6nZUzh-cB9ntBoq__HGKMUiwgrRie"
+  },
+  {
+    "id": "1j0wP79hJJ3DPzAywkexF7eS4AS5LMied",
+    "name": "MOTY _36.JPG",
+    "mimeType": "image/jpeg",
+    "createdTime": "2025-10-12T08:57:42.870Z",
+    "modifiedTime": "2025-10-12T07:50:32.000Z",
+    "webContentLink": "https://drive.google.com/uc?id=1j0wP79hJJ3DPzAywkexF7eS4AS5LMied&export=download",
+    "webViewLink": "https://drive.google.com/file/d/1j0wP79hJJ3DPzAywkexF7eS4AS5LMied/view?usp=drivesdk",
+    "thumbnailLink": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOlEpqiMm4LXlZbGiPchQydbCM0KfRMFMzVqTAkfnxLtTx8vIOCSlVbbOP-4L2AFxkYSTU31DR2CliCeQ0rSsC_0eX5vLHpYNQMFQHfQ7ZWVA=s220",
+    "size": "1365032",
+    "parents": [
+      "10BrewknojaNN9uYmVqyZfsjN-E1edC3T"
+    ],
+    "directDownloadUrl": "https://docs.google.com/uc?export=download&id=1j0wP79hJJ3DPzAywkexF7eS4AS5LMied",
+    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1j0wP79hJJ3DPzAywkexF7eS4AS5LMied"
   }
 ]
