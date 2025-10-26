@@ -174,30 +174,5 @@
     ],
     "directDownloadUrl": "https://docs.google.com/uc?export=download&id=1SgjUJ8hzV_Y7z60TPMjMdMEn_ch0oyhl",
     "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1SgjUJ8hzV_Y7z60TPMjMdMEn_ch0oyhl"
-  },
-  {
-    "id": "1FiTQlUyjeiGA9BfmFK8QhS__TR5LCdEl",
-    "name": "Screenshot 2025-10-22 043912.png",
-    "mimeType": "image/png",
-    "createdTime": "2025-10-25T14:29:00.188Z",
-    "modifiedTime": "2025-10-22T04:39:13.000Z",
-    "webContentLink": "https://drive.google.com/uc?id=1FiTQlUyjeiGA9BfmFK8QhS__TR5LCdEl&export=download",
-    "webViewLink": "https://drive.google.com/file/d/1FiTQlUyjeiGA9BfmFK8QhS__TR5LCdEl/view?usp=drivesdk",
-    "thumbnailLink": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNVxMmN1DKzdpS6ZAaN7n0cIKXoEGN3JkTM5I-jMRJLXV2vgAGH8Edz9ANwlumWwYgiIEhd5OrXQ_1knTBH1NxqKVfM1eTtTecULVaFoRQ9oKo=s220",
-    "size": "681829",
-    "parents": [
-      "10BrewknojaNN9uYmVqyZfsjN-E1edC3T"
-    ],
-    "directDownloadUrl": "https://docs.google.com/uc?export=download&id=1FiTQlUyjeiGA9BfmFK8QhS__TR5LCdEl",
-    "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1FiTQlUyjeiGA9BfmFK8QhS__TR5LCdEl",
-    "faceResults": [
-      {
-        "face_id": "face_1",
-        "similarity": 1,
-        "status": "success",
-        "message": "Processed successfully",
-        "timestamp": "2025-10-25T14:34:33.853Z"
-      }
-    ]
   }
 ]
